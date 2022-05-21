@@ -53,7 +53,7 @@ module.exports = {
       link: 'pnpm install',
     },
     {
-      name: 'Blog',
+      name: 'blog',
       link: 'https://nibbles.cool',
     },
   ],
