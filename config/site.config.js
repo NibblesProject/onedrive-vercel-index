@@ -50,7 +50,7 @@ module.exports = {
   links: [
     {
       name: 'GitHub',
-      link: 'pnpm install',
+      link: 'https://github.com/NibblesProject',
     },
     {
       name: 'Telegram',
